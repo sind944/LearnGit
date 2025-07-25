@@ -1,0 +1,12 @@
+Class Else {
+      public static void main(String args[ ])
+      {
+       int marks=81;
+       if (marks>=75)
+            system.out.println("Distinction");
+       elseif(marks>=60)
+            system.out.println("First Class");
+       elseif(marks>=35)
+             system.out.println("Second Class");
+       else
+             system.out.println
